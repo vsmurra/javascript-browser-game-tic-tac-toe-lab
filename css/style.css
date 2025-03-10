@@ -3,6 +3,11 @@ body {
     /* Use a system font, if none are available use an available sans-sarif */
     font-family: system-ui, sans-serif;
     margin: 0;
+    text-align: center;
+  }
+  
+  section {
+    margin: 0 auto;
   }
   
   .board {
@@ -18,4 +23,3 @@ body {
     font-size: 64px;
     text-align: center;
   }
-  
